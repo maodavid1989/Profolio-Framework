@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="MyProfolio" default="default" basedir=".">
-    <description>Builds, tests, and runs the project MyProfolio.</description>
+<project name="MyProfolio_Framework" default="default" basedir=".">
+    <description>Builds, tests, and runs the project MyProfolio Framework.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 

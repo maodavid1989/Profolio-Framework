@@ -12,7 +12,3 @@ $( document ).ready(function() {
     });
     
 });
-function StockReport(){
-     window.open('\Works_StockServlet?printName=CDStock');
-
-}

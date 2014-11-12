@@ -32,21 +32,18 @@
 							<div class="4u">
 								<section class="box style1">
 									<span class="icon featured fa-comments-o"></span>
-                                                                            <li><a href="javascript:StockReport()">定存股報表 </a></li>
 									<p></p>
 								</section>
 							</div>
 							<div class="4u">
 								<section class="box style1">
 									<span class="icon featured fa-camera-retro"></span>
-									<h3>Work2</h3>
 									<p></p>
 								</section>
 							</div>
 							<div class="4u">
 								<section class="box style1">
 									<span class="icon featured fa-thumbs-o-up"></span>
-									<h3>Work3</h3>
 									<p></p>
 								</section>
 							</div>
